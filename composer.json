@@ -1,5 +1,5 @@
 {
-    "name": "sahapranta/laravel-blade-sortable",
+    "name": "devzakir/laravel-blade-sortable",
     "description": "Custom Blade components to add sortable/drag-and-drop HTML elements in your apps (support laravel 9+)",
     "keywords": [
         "asantibanez",
